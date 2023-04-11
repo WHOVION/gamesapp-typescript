@@ -1,2 +1,4 @@
-- sfc’ or ‘rafce’ = auto makes function lines for react app
+- 'sfc’ or ‘rafce’ = auto makes function lines for react app
 - PascalCasing is used when making function component
+- 'control + p' = look up files
+
