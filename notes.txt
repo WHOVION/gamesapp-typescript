@@ -1,0 +1,2 @@
+- sfc’ or ‘rafce’ = auto makes function lines for react app
+- PascalCasing is used when making function component
