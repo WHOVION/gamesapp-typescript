@@ -1,9 +1,13 @@
-import ListGroup from "./components/ListGroup"
+import Alert from "./components/Alert"
+
+
 
 const App = () => {
   return (
     <div>
-      <ListGroup />
+      <Alert>
+        Hello World
+      </Alert>
     </div>
   )
 }
